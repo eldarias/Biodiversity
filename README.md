@@ -13,7 +13,7 @@ Deliverable 4: Customize the Dashboard
 ## Results
 Below is a screenshot of the final site which accomplishes the requirement to visualize each volunteer's data based on the Test Subject ID No.
 
-- [<image src="./Results/Site_Image.PNG" width="600" height="800">](https://github.com/eldarias/Biodiversity/blob/main/Results/Site_Image.PNG)<b></b>
+- [<image src="./Results/Site_Image.png" width="600" height="650">](https://github.com/eldarias/Biodiversity/blob/main/Results/Site_Image.png)<b></b>
 
 ## Summary
 The challenge was successfully completed by using JavaScript, HTML, JSON data and GitHub to visualize and display the results.
